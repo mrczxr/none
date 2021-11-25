@@ -16,3 +16,5 @@ You can click the Preview link to take a look at your changes.
 </div>
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=none&repo=none&theme=react)](https://github.com/none/none)
+
+Quando for scriptar, aperte CTRL+F e filtre por ``none´´, após, substitua pelo seu nome OG no GITHUB e salve.
